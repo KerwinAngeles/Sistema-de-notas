@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Programacion1\Proyect1\bin\Debug\net7.0\Proyect1.exe
+C:\Users\User\Documents\Programacion1\Proyect1\bin\Debug\net7.0\Proyect1.deps.json
+C:\Users\User\Documents\Programacion1\Proyect1\bin\Debug\net7.0\Proyect1.runtimeconfig.json
+C:\Users\User\Documents\Programacion1\Proyect1\bin\Debug\net7.0\Proyect1.dll
+C:\Users\User\Documents\Programacion1\Proyect1\bin\Debug\net7.0\Proyect1.pdb
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\Proyect1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\Proyect1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\Proyect1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\Proyect1.AssemblyInfo.cs
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\Proyect1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\Proyect1.dll
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\refint\Proyect1.dll
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\Proyect1.pdb
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\Proyect1.genruntimeconfig.cache
+C:\Users\User\Documents\Programacion1\Proyect1\obj\Debug\net7.0\ref\Proyect1.dll
